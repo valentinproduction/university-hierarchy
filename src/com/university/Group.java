@@ -3,7 +3,6 @@ package com.university;
 import java.util.ArrayList;
 import java.util.List;
 
-/** Навчальна група: має куратора, студентів та перелік предметів. */
 public class Group {
     private final String name;
     private Teacher curator;
