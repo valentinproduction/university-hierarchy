@@ -6,7 +6,6 @@ import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 
-/** Студент — людина, що належить до групи та має оцінки з предметів. */
 public class Student extends Person {
     private final String recordBookNumber;
     private Group group;
