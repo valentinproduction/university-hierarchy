@@ -3,7 +3,6 @@ package com.university;
 import java.time.LocalDate;
 import java.time.Period;
 
-/** Базовий абстрактний клас для всіх людей в університеті. */
 public abstract class Person {
     private final String firstName;
     private final String lastName;
