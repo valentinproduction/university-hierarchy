@@ -4,7 +4,6 @@ import java.time.LocalDate;
 import java.util.ArrayList;
 import java.util.List;
 
-/** Викладач — людина, що веде один або кілька предметів. */
 public class Teacher extends Person {
     private final String department;
     private final List<Subject> subjects = new ArrayList<>();
